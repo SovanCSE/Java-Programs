@@ -1,0 +1,7 @@
+My java status since monday.
+I have practiced the following programs
+1. Queue program using array. 
+2. Queue implementation using linked list.
+3. Circular queue using Array and LinkedList.
+
+For details: http://www.finesrc.com/author/sovan-panda/ 
